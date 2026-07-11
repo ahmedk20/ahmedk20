@@ -29,7 +29,7 @@ Backend engineer focused on **building production AI/LLM systems** — event-dri
 - 🌱 Going deep on transformer internals, RAG pipelines, and LLM guardrails / prompt-injection defense
 - 🛡️ Penetration testing & bug-bounty background — I carry security into both backend and AI systems (OWASP Top 10 for LLMs, guardrails)
 - 💬 Ask me about Node.js at scale, event-driven systems, RAG, or LLM security
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-khaled-a42b4b269/) · [Email](mailto:ak19111911@gmail.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/ahmed-khaled-a42b4b269/) · [Email](mailto:ak19111911@gmail.com)
 
 ---
 
@@ -100,10 +100,27 @@ Backend engineer focused on **building production AI/LLM systems** — event-dri
 
 ---
 
+## 🌍 Open Source Contributions
+
+Merged production code into widely-used AI, developer-tooling, and security projects (badges show live star counts):
+
+- **[Continue](https://github.com/continuedev/continue)** &nbsp;![](https://img.shields.io/github/stars/continuedev/continue?style=social) — Open-source AI code assistant / IDE autopilot. Contribution shipped in **v1.37.0**.
+- **[Floci](https://github.com/floci-io/floci)** &nbsp;![](https://img.shields.io/github/stars/floci-io/floci?style=social) — Fast, open-source AWS local emulator (Quarkus / Java). **7 merged PRs**: Amazon MQ broker control plane (RabbitMQ-backed), ElastiCache rollback fix, MemoryDB ACL / user-auth model, and DocumentDB emulation (`DocDbService`, `DocDbQueryHandler`).
+- **[Strix](https://github.com/usestrix/strix)** &nbsp;![](https://img.shields.io/github/stars/usestrix/strix?style=social) — Autonomous AI penetration-testing agents. Contributions to the agent tooling — a direct fit for my pentest + LLM-security background.
+- **[TradingAgents](https://github.com/TauricResearch/TradingAgents)** &nbsp;![](https://img.shields.io/github/stars/TauricResearch/TradingAgents?style=social) — Multi-agent LLM financial-trading framework. Overlaps with my FinBot work on agentic RAG for markets.
+
+<!--
+  TIP: link your ACTUAL merged PRs so reviewers can click straight to your code, e.g.
+  - [Floci #123 — Amazon MQ broker control plane](https://github.com/floci-io/floci/pull/123)
+  Swap the Strix / TradingAgents lines for the specific PRs you landed and tighten the wording to match.
+-->
+
+---
+
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-khaled-a42b4b269/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ahmed-khaled-a42b4b269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ahmedk20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/akhmmmed"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:ak19111911@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>

@@ -1,15 +1,13 @@
 <!--
   =========================================================
-  GitHub Profile README
-  HOW TO USE:
-  1. Replace every ahmedk20 with your GitHub username.
-  2. Replace the LinkedIn / email / X placeholders.
-  3. Put this file in a repo named exactly like your username,
-     e.g. github.com/khaled-xyz/khaled-xyz -> README.md
+  GitHub Profile README  —  ahmedk20
+  Put this file in a public repo named exactly "ahmedk20":
+  https://github.com/new  ->  repo name: ahmedk20  ->  add a README
+  It then renders at the top of github.com/ahmedk20
   =========================================================
 -->
 
-<h1 align="center">Hi, I'm Ahmed Khaled 👋</h1>
+<h1 align="center">Hi, I'm Khaled 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -29,7 +27,7 @@ Backend engineer focused on **building production AI/LLM systems** — event-dri
 - 🌱 Going deep on transformer internals, RAG pipelines, and LLM guardrails / prompt-injection defense
 - 🛡️ Penetration testing & bug-bounty background — I carry security into both backend and AI systems (OWASP Top 10 for LLMs, guardrails)
 - 💬 Ask me about Node.js at scale, event-driven systems, RAG, or LLM security
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/ahmed-khaled-a42b4b269/) · [Email](mailto:ak19111911@gmail.com)
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/ahmed-khaled-a42b4b269) · [Email](mailto:ak19111911@gmail.com)
 
 ---
 
@@ -94,9 +92,12 @@ Backend engineer focused on **building production AI/LLM systems** — event-dri
 
 ## 🚀 Featured Projects
 
-- **[FinBot](https://github.com/ahmedk20/finbot)** — Production financial-intelligence API. Multi-agent RAG (FinBERT + Pinecone), Terraform IaC on DigitalOcean, CI/CD, DevSecOps, 139 real-infra integration tests.
-- **[MASAR](https://github.com/ahmedk20/masar)** — AI-powered mentorship platform. Express 5 + TypeScript + Prisma + PostgreSQL, RabbitMQ, Redis, Socket.io, FastAPI AI microservices, Google Gemini.
-- **[Phantom](https://github.com/ahmedk20/phantom)** — TypeScript multi-agent framework with pluggable planners, injectable registries, and typed error handling.
+- **[agentic-ai-from-claude-code](https://github.com/ahmedk20/agentic-ai-from-claude-code)** &nbsp;![](https://img.shields.io/github/stars/ahmedk20/agentic-ai-from-claude-code?style=social) — Production-grade AI-agent development, reverse-engineered from Claude Code's architecture.
+- **FinBot** — Production financial-intelligence API. Multi-agent RAG (FinBERT + Pinecone), Terraform IaC on DigitalOcean, CI/CD, DevSecOps, 139 real-infra integration tests. <!-- private repo: add link once public -->
+- **[QuickBite](https://github.com/ahmedk20/food-delivery-core-service)** — Microservices food-delivery backend, split across [core](https://github.com/ahmedk20/food-delivery-core-service) · [order](https://github.com/ahmedk20/food-delivery-order-service) · [analytics](https://github.com/ahmedk20/food-delivery-analytics-service) services. JWT auth + RBAC, order lifecycle, Kashier payments, WebSockets, regional PostgreSQL sharding, RabbitMQ outbox + worker. TypeScript · Node.js · Go · MongoDB · PostgreSQL · Redis.
+- **MASAR** — AI-powered mentorship platform. Express 5 · TypeScript · Prisma · PostgreSQL · RabbitMQ · Redis · Socket.io · FastAPI AI microservices · Google Gemini. <!-- private repo -->
+- **Phantom** — TypeScript multi-agent framework with pluggable planners, injectable registries, and typed error handling. <!-- private repo -->
+- **[redis-nodejs](https://github.com/ahmedk20/redis-nodejs)** — Redis reimplemented from scratch in Node.js to understand its internals (caching, queues, sessions).
 
 ---
 

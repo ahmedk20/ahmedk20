@@ -93,10 +93,9 @@ Backend engineer focused on **building production AI/LLM systems** — event-dri
 ## 🚀 Featured Projects
 
 - **[agentic-ai-from-claude-code](https://github.com/ahmedk20/agentic-ai-from-claude-code)** &nbsp;![](https://img.shields.io/github/stars/ahmedk20/agentic-ai-from-claude-code?style=social) — Production-grade AI-agent development, reverse-engineered from Claude Code's architecture.
-- **FinBot** — Production financial-intelligence API. Multi-agent RAG (FinBERT + Pinecone), Terraform IaC on DigitalOcean, CI/CD, DevSecOps, 139 real-infra integration tests. <!-- private repo: add link once public -->
+- **[FinBot](https://github.com/ahmedk20/finbot)** — Production financial-intelligence API. Multi-agent RAG (FinBERT + Pinecone), Terraform IaC on DigitalOcean, CI/CD, DevSecOps, 139 real-infra integration tests. <!-- private repo: add link once public -->
 - **[QuickBite](https://github.com/ahmedk20/food-delivery-core-service)** — Microservices food-delivery backend, split across [core](https://github.com/ahmedk20/food-delivery-core-service) · [order](https://github.com/ahmedk20/food-delivery-order-service) · [analytics](https://github.com/ahmedk20/food-delivery-analytics-service) services. JWT auth + RBAC, order lifecycle, Kashier payments, WebSockets, regional PostgreSQL sharding, RabbitMQ outbox + worker. TypeScript · Node.js · Go · MongoDB · PostgreSQL · Redis.
 - **MASAR** — AI-powered mentorship platform. Express 5 · TypeScript · Prisma · PostgreSQL · RabbitMQ · Redis · Socket.io · FastAPI AI microservices · Google Gemini. <!-- private repo -->
-- **Phantom** — TypeScript multi-agent framework with pluggable planners, injectable registries, and typed error handling. <!-- private repo -->
 - **[redis-nodejs](https://github.com/ahmedk20/redis-nodejs)** — Redis reimplemented from scratch in Node.js to understand its internals (caching, queues, sessions).
 
 ---

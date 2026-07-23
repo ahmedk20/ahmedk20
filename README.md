@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Microservices+%26+Distributed+Systems;TypeScript+%2F+Node.js+%7C+Event-Driven+Architecture;DevOps+%2F+DevSecOps+%E2%80%94+Terraform%2C+Docker%2C+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines= Backend+Engineer+%7C+Microservices+%26+Distributed+Systems;TypeScript+%2F+Node.js+%7C+Event-Driven+Architecture;DevOps+%2F+DevSecOps+%E2%80%94+Terraform%2C+Docker%2C+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 

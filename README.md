@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Microservices+%26+Distributed+Systems;TypeScript+%2F+Node.js+%7C+Event-Driven+Architecture;DevOps+%2F+DevSecOps+%E2%80%94+Terraform%2C+Docker%2C+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=680&lines=Backend+Engineer+%7C+Microservices+%26+Distributed+Systems;TypeScript+%2F+Node.js+%7C+Event-Driven+Architecture;DevOps+%2F+DevSecOps+%E2%80%94%2C+Docker%2C+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ Backend engineer focused on **microservices, event-driven & distributed systems,
 - 🔭 Building **FinBot** — a financial-intelligence API. **Terraform IaC** on DigitalOcean, full **CI/CD + DevSecOps** (Gitleaks, Trivy, Datadog APM), and **139 integration tests against real infrastructure** (no mocks). Under the hood it also runs a multi-agent **RAG** pipeline (FinBERT + Pinecone).
 - 🧱 Into the hard parts of backend: **event-driven architecture**, the outbox pattern, **PostgreSQL sharding**, CQRS / event sourcing, consensus (Raft), and building services that stay correct under load.
 - 🛡️ Penetration testing & bug-bounty background — I carry security into backend and infrastructure (**DevSecOps**, OWASP Top 10), and into LLM systems where it matters (RAG guardrails, prompt-injection defense).
-- 💬 Ask me about **Node.js at scale**, event-driven systems, microservices, Docker/Terraform, or CI/CD.
+- 💬 Ask me about **Node.js at scale**, event-driven systems, microservices, Docker, or CI/CD.
 - 📫 Reach me on [LinkedIn](https://linkedin.com/in/ahmed-khaled-a42b4b269) · [Email](mailto:ak19111911@gmail.com)
 
 ---
@@ -60,7 +60,6 @@ Backend engineer focused on **microservices, event-driven & distributed systems,
 **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
